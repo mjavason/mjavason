@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Laravel, C#, MSSQL, PostgreSQL.**
 
-- ☁️ I've keen interest in Artificial Intelligence. So, I'm learning **Python and TensorFlow**
+- ☁️ I have keen interest in Artificial Intelligence. So, I'm also learning **Python and TensorFlow**
 
 - 📝 I regularly write articles on [Hashnode](https://tatb.hashnode.dev/)
 

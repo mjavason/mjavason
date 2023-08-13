@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Javascript, Express, PHP, MongoDB, MySQL.**
+- 🔭 I’m currently working on **Javascript, Typescript, Express.js, PHP, MongoDB, MySQL.**
 
 - 🌱 I’m currently learning **Laravel, C#, MSSQL, PostgreSQL.**
 
@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **Javascript, Express, MongoDB**
 
-- 📫 Feel free to reach me out **orjimichael4886@gmail.com**
+- 📫 Feel free to reach out to me with **orjimichael4886@gmail.com**
 
 <!-- - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886). -->
 <!--Intro end-->

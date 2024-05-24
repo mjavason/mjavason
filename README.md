@@ -50,16 +50,28 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mjavason&theme=light&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=dark&hide_border=false&count_private=true" /> 
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mjavason&theme=dark&show_icons=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mjavason&theme=light&show_icons=true&count_private=true" />
+  <img align="center" alt="github-snake" src="https://github-readme-stats.vercel.app/api?username=mjavason&theme=dark&show_icons=true&count_private=true" />
+</picture>
+    <br></br>
+
+  <picture  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=dark&hide_border=false&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=white&hide_border=false&count_private=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=dark&hide_border=false&count_private=true" />
+</picture>
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+  <img alt="github-snake" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+</picture>  
+
   </td>
 </tr>
 </table>
@@ -79,17 +91,20 @@
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+-->
+
 <!--tech stack icons-->
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cs,cpp,discord,docker,dotnet,express,gherkin,git,github,html,java,jquery,js,laravel,md,mongodb,mysql,nodejs,php,postgres,postman,py,regex,sequelize,ts,visualstudio,vscode&perline=14" />
   </a>
-</p>
+</p> -->
 
 
 <!-- Connect with me -->
@@ -121,5 +136,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ---------------------------------------------------------------------- -->
-<!-- Credit: [1010nishant](https://github.com/1010nishant) -->

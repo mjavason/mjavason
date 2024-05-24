@@ -68,7 +68,7 @@
 
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=css,html" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=css,html" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=css, html" />
   <img alt="github-snake" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=css,html" />
 </picture>  
 

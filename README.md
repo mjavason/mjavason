@@ -33,9 +33,9 @@ Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while di
   <li>🔭 Working on projects using <strong>JavaScript, TypeScript, Express.js, PHP, MongoDB, MySQL</strong>.</li>
   <li>🌱 Learning <strong>Laravel, C#, MSSQL, and PostgreSQL</strong>.</li>
   <li>☁️ Passionate about Artificial Intelligence and actively learning <strong>Python and TensorFlow</strong>.</li>
-  <li>📝 I love sharing insights! Check out my articles on [Hashnode](https://tatb.hashnode.dev/).</li>
-  <li>💬 Ask me about <strong>JavaScript, Express, MongoDB</strong>.</li>
-  <li>📫 Reach me at: **orjimichael4886@gmail.com**.</li>
+  <li>📝 I love sharing insights! Check out my articles on <a href="https://tatb.hashnode.dev/">Hashnode</a> </li>
+  <li>💬 Ask me about <strong>JavaScript, Typescript, Express.js, Nest.js, MongoDB</strong>.</li>
+  <li>📫 Reach me at: <a href="mailto:orjimichael4886@gmail.com">orjimichael4886@gmail.com</a>.</li>
 </ul>
 
 <!--- stats & Trophy (start) -->
@@ -86,7 +86,7 @@ Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while di
 
 <!--profile visit count-->
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=mjavason=3&color=6)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=mjavason&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </div>
 
 <!--horizontal divider(gradiant)-->

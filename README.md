@@ -26,7 +26,7 @@ I specialize in building efficient and scalable backends using modern web techno
 </p>
 
 <p>
-Currently, I'm working with JavaScript, TypeScript, Express.js, and PHP while diving deeper into MongoDB, MySQL, and PostgreSQL. I’m also exploring the world of AI, particularly focusing on Python and TensorFlow, which has sparked my interest in the potential of machine learning.
+Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while diving deeper into MySQL and PostgreSQL. I’m also exploring the world of AI, particularly focusing on Python and TensorFlow, which has sparked my interest in the potential of machine learning.
 </p>
 
 <ul>
@@ -86,7 +86,7 @@ Currently, I'm working with JavaScript, TypeScript, Express.js, and PHP while di
 
 <!--profile visit count-->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=mjavason&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mjavason=3&color=6)](https://visitcount.itsvg.in)
 </div>
 
 <!--horizontal divider(gradiant)-->

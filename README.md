@@ -56,7 +56,8 @@ Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while di
         </picture>
       </td>
       <td width="50%" align="center">
-<figure><embed src="https://wakatime.com/share/@Michaelsxn/0d18664a-59d7-40c2-b5be-34dd29f23d86.svg"></embed></figure>      </td>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Michaelsxn/fa99f8bd-3802-486e-9d70-0bb3bfdf2c6e.png" /></a>
+      </td>
     </tr>
   </table>
 </p>

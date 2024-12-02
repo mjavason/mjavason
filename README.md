@@ -56,12 +56,7 @@ Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while di
         </picture>
       </td>
       <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=java" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=java" />
-          <img alt="Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mjavason&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=java" />
-        </picture>
-      </td>
+<figure><embed src="https://wakatime.com/share/@Michaelsxn/0d18664a-59d7-40c2-b5be-34dd29f23d86.svg"></embed></figure>      </td>
     </tr>
   </table>
 </p>

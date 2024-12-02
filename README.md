@@ -58,9 +58,9 @@ Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while di
       <td width="50%" align="center">
         <figure><embed src="https://wakatime.com/share/@Michaelsxn/89e884c8-4e55-4420-82bb-786b89f84b4b.svg"></embed></figure>
           <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Michaelsxn/f2848ac5-8445-4e33-9fcd-361d5f55aca4.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Michaelsxn/89e884c8-4e55-4420-82bb-786b89f84b4b.svg" />
-  <img alt="github-snake" src="https://wakatime.com/share/@Michaelsxn/89e884c8-4e55-4420-82bb-786b89f84b4b.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Michaelsxn/0e986668-6735-4fa1-ad5e-fe30ca86e322.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Michaelsxn/7cab2498-a892-4ec2-ae42-1878f570ad7b.svg" />
+  <img alt="github-snake" src="https://wakatime.com/share/@Michaelsxn/0e986668-6735-4fa1-ad5e-fe30ca86e322.svg" />
   </picture>
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Michaelsxn/e9b61067-db9f-4559-9db9-b1ae50971245.png" /></a>
          -->

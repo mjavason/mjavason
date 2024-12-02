@@ -56,7 +56,14 @@ Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while di
         </picture>
       </td>
       <td width="50%" align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Michaelsxn/e9b61067-db9f-4559-9db9-b1ae50971245.png" /></a>
+        <figure><embed src="https://wakatime.com/share/@Michaelsxn/89e884c8-4e55-4420-82bb-786b89f84b4b.svg"></embed></figure>
+          <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Michaelsxn/f2848ac5-8445-4e33-9fcd-361d5f55aca4.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Michaelsxn/89e884c8-4e55-4420-82bb-786b89f84b4b.svg" />
+  <img alt="github-snake" src="https://wakatime.com/share/@Michaelsxn/89e884c8-4e55-4420-82bb-786b89f84b4b.svg" />
+  </picture>
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Michaelsxn/e9b61067-db9f-4559-9db9-b1ae50971245.png" /></a>
+         -->
       </td>
     </tr>
   </table>

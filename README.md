@@ -30,8 +30,8 @@ Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while di
 </p>
 
 <ul>
-  <li>🔭 Working on projects using <strong>JavaScript, TypeScript, Express.js, PHP, MongoDB, MySQL</strong>.</li>
-  <li>🌱 Learning <strong>Laravel, C#, MSSQL, and PostgreSQL</strong>.</li>
+  <li>🔭 Working on projects using <strong>JavaScript, TypeScript, Express.js, Nest.js, MongoDB, MySQL</strong>.</li>
+  <li>🌱 Learning <strong>Cloud Tech - AWS</strong>.</li>
   <li>☁️ Passionate about Artificial Intelligence and actively learning <strong>Python and TensorFlow</strong>.</li>
   <li>📝 I love sharing insights! Check out my articles on <a href="https://tatb.hashnode.dev/">Hashnode</a> </li>
   <li>💬 Ask me about <strong>JavaScript, Typescript, Express.js, Nest.js, MongoDB</strong>.</li>

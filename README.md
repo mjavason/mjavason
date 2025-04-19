@@ -8,7 +8,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/mjavason/mjavason/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -17,25 +16,25 @@
 </div>
 
 <p align="center">
-  <em>Backend Developer | JavaScript Enthusiast | AI Explorer</em>
+  <em>Full-Stack Developer | JavaScript & .NET Aficionado | AI Explorer</em>
 </p>
 
 <!--Intro start-->
 <p>
-I specialize in building efficient and scalable backends using modern web technologies. With proficiency in JavaScript, TypeScript, Express.js, and Nest.js, I'm passionate about creating well-architected systems that power real-world applications.
+I'm a passionate Full-Stack Developer who crafts performant, scalable, and maintainable web applications. My toolbox spans from building intuitive front-end interfaces with <strong>React</strong> and <strong>Next.js</strong>, to architecting robust, secure backends with <strong>ASP.NET Core</strong>, <strong>Nest.js</strong>, and <strong>Express.js</strong>.
 </p>
 
 <p>
-Currently, I'm working with TypeScript, Nest.js, Express.js and MongoDB while diving deeper into MySQL and PostgreSQL. I’m also exploring the world of AI, particularly focusing on Python and TensorFlow, which has sparked my interest in the potential of machine learning.
+I'm driven by curiosity and craftsmanship, constantly refining my understanding of modern software design while diving deeper into databases like <strong>MongoDB, MySQL, and PostgreSQL</strong>. Beyond full-stack development, I actively explore the intersection of AI and cloud computing, with growing fluency in <strong>Python, TensorFlow</strong>, and <strong>AWS</strong>.
 </p>
 
 <ul>
-  <li>🔭 Working on projects using <strong>JavaScript, TypeScript, Express.js, Nest.js, MongoDB, MySQL</strong>.</li>
-  <li>🌱 Learning <strong>Cloud Tech - AWS</strong>.</li>
-  <li>☁️ Passionate about Artificial Intelligence and the computing power it takes to run, actively studying <strong>Cloud Technologies</strong>.</li>
-  <li>📝 I love sharing insights! Check out my articles on <a href="https://tatb.hashnode.dev/">Hashnode</a> </li>
-  <li>💬 Ask me about <strong>JavaScript, Typescript, Express.js, Nest.js, MongoDB</strong>.</li>
-  <li>📫 Reach me at: <a href="mailto:orjimichael4886@gmail.com">orjimichael4886@gmail.com</a>.</li>
+  <li>🔭 Currently building full-stack projects using <strong>React, Next.js, ASP.NET Core, TypeScript, Nest.js, MongoDB, MySQL</strong>.</li>
+  <li>🌐 Gaining deeper expertise in <strong>Cloud Technologies – AWS & Azure</strong>.</li>
+  <li>⚙️ Exploring the synergy between <strong>AI, cloud infrastructure, and scalable web systems</strong>.</li>
+  <li>📝 I love writing and reflecting—check out my dev articles on <a href="https://tatb.hashnode.dev/" target="_blank"><strong>Hashnode</strong></a>.</li>
+  <li>💬 Let’s talk <strong>React, Next.js, .NET Core, JavaScript, TypeScript, Nest.js, Databases</strong>.</li>
+  <li>📫 Reach out anytime: <a href="mailto:orjimichael4886@gmail.com">orjimichael4886@gmail.com</a>.</li>
 </ul>
 
 <!--- stats & Trophy (start) -->

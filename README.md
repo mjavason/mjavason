@@ -20,14 +20,22 @@
 </p>
 
 <!--Intro start-->
-<p>
-I'm a passionate Full-Stack Developer who crafts performant, scalable, and maintainable web applications. My toolbox spans from building intuitive front-end interfaces with <strong>React</strong> and <strong>Next.js</strong>, to architecting robust, secure backends with <strong>ASP.NET Core</strong>, <strong>Nest.js</strong>, and <strong>Express.js</strong>.
-</p>
+
 
 <p>
-I'm driven by curiosity and craftsmanship, constantly refining my understanding of modern software design while diving deeper into databases like <strong>MongoDB, MySQL, and PostgreSQL</strong>. Beyond full-stack development, I actively explore the intersection of AI and cloud computing, with growing fluency in <strong>Python, TensorFlow</strong>, and <strong>AWS</strong>.
+I am a purpose-driven and results-oriented Fullstack Developer with a deep passion for building scalable, high-performance applications. Constantly seeking opportunities to learn, refine my craft, and drive innovation, I approach every project with a strong problem-solving mindset and a relentless commitment to excellence.
+</p>
+<p>
+Beyond technical expertise, I thrive in collaborative, Agile environments, where I optimize team performance and foster a culture of efficiency, adaptability, and continuous improvement. As a servant leader, I prioritize clear communication, knowledge sharing, and strategic thinking to ensure seamless execution of complex projects.
+</p>
+<p>
+I don’t believe in excuses, only solutions. Whether it’s architecting robust backend systems, designing intuitive frontend interfaces, or implementing DevOps automation, I am dedicated to delivering impactful results that propel businesses forward.
+</p>
+<p>
+Core Skills: Fullstack Development, Agile & Scrum, Software Architecture, JavaScript, TypeScript, Node.js, React, Next.js, Nest.js, C#, ASP.NET Core, Docker, DevOps, API Development, Team Leadership
 </p>
 
+Let’s connect and build something exceptional!
 <ul>
   <li>🔭 Currently building full-stack projects using <strong>React, Next.js, ASP.NET Core, TypeScript, Nest.js, MongoDB, MySQL</strong>.</li>
   <li>🌐 Gaining deeper expertise in <strong>Cloud Technologies – AWS & Azure</strong>.</li>
@@ -80,16 +88,18 @@ I'm driven by curiosity and craftsmanship, constantly refining my understanding 
 <!--icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/michael-orji-1274b1220" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/michelson_java" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+  <a href="https://twitter.com/michaelsxn_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
   <a href="https://www.instagram.com/emerald_inc/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
   <a href="https://tatb.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
   <a href="https://discord.com/users/Michaelsxn#5153" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
 <!--profile visit count-->
+<!--
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=mjavason&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </div>
+-->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center">

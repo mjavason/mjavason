@@ -49,7 +49,7 @@ Let’s connect and build something exceptional!
 <p align="center">
   <table align="center">
     <tr border="none">
-      <td width="50%" align="center">
+      <!-- <td width="50%" align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mjavason&theme=dark&show_icons=true&count_private=true" />
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mjavason&theme=light&show_icons=true&count_private=true" />
@@ -61,8 +61,8 @@ Let’s connect and build something exceptional!
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=white&hide_border=false&count_private=true" />
           <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=dark&hide_border=false&count_private=true" />
         </picture>
-      </td>
-      <td width="50%" align="center">
+      </td> -->
+      <td width="100%" align="center">
         <figure><embed src="https://wakatime.com/share/@Michaelsxn/89e884c8-4e55-4420-82bb-786b89f84b4b.svg"></embed></figure>
           <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Michaelsxn/0e986668-6735-4fa1-ad5e-fe30ca86e322.svg" />

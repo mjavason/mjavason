@@ -44,33 +44,24 @@ Let’s connect and build something exceptional!
   <li>💬 Let’s talk <strong>React, Next.js, .NET Core, JavaScript, TypeScript, Nest.js, Databases</strong>.</li>
   <li>📫 Reach out anytime: <a href="mailto:orjimichael4886@gmail.com">orjimichael4886@gmail.com</a>.</li>
 </ul>
-
+<br />
 <!--- stats & Trophy (start) -->
 <p align="center">
   <table align="center">
-    <tr border="none">
-      <!-- <td width="50%" align="center">
+    <tr>
+      <td align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mjavason&theme=dark&show_icons=true&count_private=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mjavason&theme=light&show_icons=true&count_private=true" />
-          <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=mjavason&theme=dark&show_icons=true&count_private=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Michaelsxn/3670bd68-cce0-44c5-9d7b-681e0de434b7.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Michaelsxn/aacfcf64-76ca-41d8-9970-77bdb247922b.svg" />
+          <img src="https://wakatime.com/share/@Michaelsxn/3670bd68-cce0-44c5-9d7b-681e0de434b7.svg" width="400" />
         </picture>
-        <br>
+      </td>
+      <td align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=dark&hide_border=false&count_private=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=white&hide_border=false&count_private=true" />
-          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mjavason&theme=dark&hide_border=false&count_private=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Michaelsxn/4c3110e0-15c4-44dc-84b2-805de2f25576.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Michaelsxn/fab4dd29-0bb4-462b-96e3-9fbdf3f1a8d6.svg" />
+          <img src="https://wakatime.com/share/@Michaelsxn/4c3110e0-15c4-44dc-84b2-805de2f25576.svg" width="400" />
         </picture>
-      </td> -->
-      <td width="100%" align="center">
-        <figure><embed src="https://wakatime.com/share/@Michaelsxn/89e884c8-4e55-4420-82bb-786b89f84b4b.svg"></embed></figure>
-          <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Michaelsxn/0e986668-6735-4fa1-ad5e-fe30ca86e322.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Michaelsxn/7cab2498-a892-4ec2-ae42-1878f570ad7b.svg" />
-  <img alt="github-snake" src="https://wakatime.com/share/@Michaelsxn/0e986668-6735-4fa1-ad5e-fe30ca86e322.svg" />
-  </picture>
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Michaelsxn/e9b61067-db9f-4559-9db9-b1ae50971245.png" /></a>
-         -->
       </td>
     </tr>
   </table>

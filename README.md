@@ -37,11 +37,7 @@ Core Skills: Fullstack Development, Agile & Scrum, Software Architecture, JavaSc
 
 Let’s connect and build something exceptional!
 <ul>
-  <li>🔭 Currently building full-stack projects using <strong>React, Next.js, ASP.NET Core, TypeScript, Nest.js, MongoDB, MySQL</strong>.</li>
-  <li>🌐 Gaining deeper expertise in <strong>Cloud Technologies – AWS & Azure</strong>.</li>
-  <li>⚙️ Exploring the synergy between <strong>AI, cloud infrastructure, and scalable web systems</strong>.</li>
   <li>📝 I love writing and reflecting—check out my dev articles on <a href="https://tatb.hashnode.dev/" target="_blank"><strong>Hashnode</strong></a>.</li>
-  <li>💬 Let’s talk <strong>React, Next.js, .NET Core, JavaScript, TypeScript, Nest.js, Databases</strong>.</li>
   <li>📫 Reach out anytime: <a href="mailto:orjimichael4886@gmail.com">orjimichael4886@gmail.com</a>.</li>
 </ul>
 <br />

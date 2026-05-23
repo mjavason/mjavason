@@ -41,6 +41,7 @@ Let’s connect and build something exceptional!
   <li>📫 Reach out anytime: <a href="mailto:orjimichael4886@gmail.com">orjimichael4886@gmail.com</a>.</li>
 </ul>
 <br />
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <table align="center">
